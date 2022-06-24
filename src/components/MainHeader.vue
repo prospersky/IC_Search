@@ -1,11 +1,13 @@
 <template>
   <header>
     <h1>Welcome to IC Searcher</h1>
+    <!-- <img src="../assets/logo.jpg" alt=""> -->
   </header>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 
